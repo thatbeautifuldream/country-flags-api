@@ -27,6 +27,29 @@ app.use(limiter);
 // Body parser
 app.use(express.json());
 
+// Root route
+app.get("/", (req, res) => {
+  res.json({
+    message: "Welcome to the Country Flags API",
+    version: "1.0.0",
+    description:
+      "An API service providing information about country flags with support for both flat and shiny flag styles",
+    available_routes: {
+      "GET /": "This information page",
+      "GET /api/flags": "Get all country flags",
+      "GET /api/flags/:countryCode": "Get flag by country code",
+      "GET /api/flags/flat/all": "Get all flat-style flags",
+      "GET /api/flags/shiny/all": "Get all shiny-style flags",
+      "GET /api/flags/flat/:countryCode":
+        "Get flat-style flag for a specific country",
+      "GET /api/flags/shiny/:countryCode":
+        "Get shiny-style flag for a specific country",
+    },
+    rate_limit: "100 requests per 15 minutes",
+    documentation: "https://github.com/thatbeautifuldream/country-flags-api",
+  });
+});
+
 // Routes
 app.use("/api/flags", flagRoutes);
 
