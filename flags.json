@@ -1,0 +1,716 @@
+[
+  {
+    "countryName": "Andorra",
+    "countryCode": "AD",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AD/flat/64.png"
+  },
+  {
+    "countryName": "Andorra",
+    "countryCode": "AD",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AD/shiny/64.png"
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryCode": "AE",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AE/flat/64.png"
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryCode": "AE",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AE/shiny/64.png"
+  },
+  {
+    "countryName": "Afghanistan",
+    "countryCode": "AF",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AF/flat/64.png"
+  },
+  {
+    "countryName": "Afghanistan",
+    "countryCode": "AF",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AF/shiny/64.png"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "AG",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AG/flat/64.png"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "AG",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AG/shiny/64.png"
+  },
+  {
+    "countryName": "Albania",
+    "countryCode": "AL",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AL/flat/64.png"
+  },
+  {
+    "countryName": "Albania",
+    "countryCode": "AL",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AL/shiny/64.png"
+  },
+  {
+    "countryName": "Armenia",
+    "countryCode": "AM",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AM/flat/64.png"
+  },
+  {
+    "countryName": "Armenia",
+    "countryCode": "AM",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AM/shiny/64.png"
+  },
+  {
+    "countryName": "Angola",
+    "countryCode": "AO",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AO/flat/64.png"
+  },
+  {
+    "countryName": "Angola",
+    "countryCode": "AO",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AO/shiny/64.png"
+  },
+  {
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AR/flat/64.png"
+  },
+  {
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AR/shiny/64.png"
+  },
+  {
+    "countryName": "Austria",
+    "countryCode": "AT",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AT/flat/64.png"
+  },
+  {
+    "countryName": "Austria",
+    "countryCode": "AT",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AT/shiny/64.png"
+  },
+  {
+    "countryName": "Australia",
+    "countryCode": "AU",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AU/flat/64.png"
+  },
+  {
+    "countryName": "Australia",
+    "countryCode": "AU",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AU/shiny/64.png"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "countryCode": "AZ",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/AZ/flat/64.png"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "countryCode": "AZ",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/AZ/shiny/64.png"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/BA/flat/64.png"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/BA/shiny/64.png"
+  },
+  {
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/BE/flat/64.png"
+  },
+  {
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/BE/shiny/64.png"
+  },
+  {
+    "countryName": "Bulgaria",
+    "countryCode": "BG",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/BG/flat/64.png"
+  },
+  {
+    "countryName": "Bulgaria",
+    "countryCode": "BG",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/BG/shiny/64.png"
+  },
+  {
+    "countryName": "Bahrain",
+    "countryCode": "BH",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/BH/flat/64.png"
+  },
+  {
+    "countryName": "Bahrain",
+    "countryCode": "BH",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/BH/shiny/64.png"
+  },
+  {
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/BR/flat/64.png"
+  },
+  {
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/BR/shiny/64.png"
+  },
+  {
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/CA/flat/64.png"
+  },
+  {
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/CA/shiny/64.png"
+  },
+  {
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/CH/flat/64.png"
+  },
+  {
+    "countryName": "Switzerland",
+    "countryCode": "CH",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/CH/shiny/64.png"
+  },
+  {
+    "countryName": "China",
+    "countryCode": "CN",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/CN/flat/64.png"
+  },
+  {
+    "countryName": "China",
+    "countryCode": "CN",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/CN/shiny/64.png"
+  },
+  {
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/DE/flat/64.png"
+  },
+  {
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/DE/shiny/64.png"
+  },
+  {
+    "countryName": "Denmark",
+    "countryCode": "DK",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/DK/flat/64.png"
+  },
+  {
+    "countryName": "Denmark",
+    "countryCode": "DK",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/DK/shiny/64.png"
+  },
+  {
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/EG/flat/64.png"
+  },
+  {
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/EG/shiny/64.png"
+  },
+  {
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/ES/flat/64.png"
+  },
+  {
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/ES/shiny/64.png"
+  },
+  {
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/FI/flat/64.png"
+  },
+  {
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/FI/shiny/64.png"
+  },
+  {
+    "countryName": "France",
+    "countryCode": "FR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/FR/flat/64.png"
+  },
+  {
+    "countryName": "France",
+    "countryCode": "FR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/FR/shiny/64.png"
+  },
+  {
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/GB/flat/64.png"
+  },
+  {
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/GB/shiny/64.png"
+  },
+  {
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/GR/flat/64.png"
+  },
+  {
+    "countryName": "Greece",
+    "countryCode": "GR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/GR/shiny/64.png"
+  },
+  {
+    "countryName": "Hong Kong",
+    "countryCode": "HK",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/HK/flat/64.png"
+  },
+  {
+    "countryName": "Hong Kong",
+    "countryCode": "HK",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/HK/shiny/64.png"
+  },
+  {
+    "countryName": "Indonesia",
+    "countryCode": "ID",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/ID/flat/64.png"
+  },
+  {
+    "countryName": "Indonesia",
+    "countryCode": "ID",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/ID/shiny/64.png"
+  },
+  {
+    "countryName": "Ireland",
+    "countryCode": "IE",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/IE/flat/64.png"
+  },
+  {
+    "countryName": "Ireland",
+    "countryCode": "IE",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/IE/shiny/64.png"
+  },
+  {
+    "countryName": "Israel",
+    "countryCode": "IL",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/IL/flat/64.png"
+  },
+  {
+    "countryName": "Israel",
+    "countryCode": "IL",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/IL/shiny/64.png"
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IN",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/IN/flat/64.png"
+  },
+  {
+    "countryName": "India",
+    "countryCode": "IN",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/IN/shiny/64.png"
+  },
+  {
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/IT/flat/64.png"
+  },
+  {
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/IT/shiny/64.png"
+  },
+  {
+    "countryName": "Japan",
+    "countryCode": "JP",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/JP/flat/64.png"
+  },
+  {
+    "countryName": "Japan",
+    "countryCode": "JP",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/JP/shiny/64.png"
+  },
+  {
+    "countryName": "South Korea",
+    "countryCode": "KR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/KR/flat/64.png"
+  },
+  {
+    "countryName": "South Korea",
+    "countryCode": "KR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/KR/shiny/64.png"
+  },
+  {
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/MX/flat/64.png"
+  },
+  {
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/MX/shiny/64.png"
+  },
+  {
+    "countryName": "Malaysia",
+    "countryCode": "MY",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/MY/flat/64.png"
+  },
+  {
+    "countryName": "Malaysia",
+    "countryCode": "MY",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/MY/shiny/64.png"
+  },
+  {
+    "countryName": "Netherlands",
+    "countryCode": "NL",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/NL/flat/64.png"
+  },
+  {
+    "countryName": "Netherlands",
+    "countryCode": "NL",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/NL/shiny/64.png"
+  },
+  {
+    "countryName": "Norway",
+    "countryCode": "NO",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/NO/flat/64.png"
+  },
+  {
+    "countryName": "Norway",
+    "countryCode": "NO",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/NO/shiny/64.png"
+  },
+  {
+    "countryName": "New Zealand",
+    "countryCode": "NZ",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/NZ/flat/64.png"
+  },
+  {
+    "countryName": "New Zealand",
+    "countryCode": "NZ",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/NZ/shiny/64.png"
+  },
+  {
+    "countryName": "Philippines",
+    "countryCode": "PH",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/PH/flat/64.png"
+  },
+  {
+    "countryName": "Philippines",
+    "countryCode": "PH",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/PH/shiny/64.png"
+  },
+  {
+    "countryName": "Pakistan",
+    "countryCode": "PK",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/PK/flat/64.png"
+  },
+  {
+    "countryName": "Pakistan",
+    "countryCode": "PK",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/PK/shiny/64.png"
+  },
+  {
+    "countryName": "Poland",
+    "countryCode": "PL",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/PL/flat/64.png"
+  },
+  {
+    "countryName": "Poland",
+    "countryCode": "PL",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/PL/shiny/64.png"
+  },
+  {
+    "countryName": "Russian Federation",
+    "countryCode": "RU",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/RU/flat/64.png"
+  },
+  {
+    "countryName": "Russian Federation",
+    "countryCode": "RU",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/RU/shiny/64.png"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/SA/flat/64.png"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/SA/shiny/64.png"
+  },
+  {
+    "countryName": "Sweden",
+    "countryCode": "SE",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/SE/flat/64.png"
+  },
+  {
+    "countryName": "Sweden",
+    "countryCode": "SE",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/SE/shiny/64.png"
+  },
+  {
+    "countryName": "Singapore",
+    "countryCode": "SG",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/SG/flat/64.png"
+  },
+  {
+    "countryName": "Singapore",
+    "countryCode": "SG",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/SG/shiny/64.png"
+  },
+  {
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/TH/flat/64.png"
+  },
+  {
+    "countryName": "Thailand",
+    "countryCode": "TH",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/TH/shiny/64.png"
+  },
+  {
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/TR/flat/64.png"
+  },
+  {
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/TR/shiny/64.png"
+  },
+  {
+    "countryName": "United States",
+    "countryCode": "US",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/US/flat/64.png"
+  },
+  {
+    "countryName": "United States",
+    "countryCode": "US",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/US/shiny/64.png"
+  },
+  {
+    "countryName": "Vietnam",
+    "countryCode": "VN",
+    "style": "flat",
+    "size": 64,
+    "url": "https://flagsapi.com/VN/flat/64.png"
+  },
+  {
+    "countryName": "Vietnam",
+    "countryCode": "VN",
+    "style": "shiny",
+    "size": 64,
+    "url": "https://flagsapi.com/VN/shiny/64.png"
+  }
+]
