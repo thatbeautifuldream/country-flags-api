@@ -40,7 +40,7 @@ class FlagService {
     const countryData = flags.find(
       (flag) => flag.countryCode === normalizedCountryCode
     );
-    const flagUrl = `https://flagcdn.com/${normalizedCountryCode.toLowerCase()}.svg`;
+    const flagUrl = `https://flagsapi.com/${normalizedCountryCode}/flat/64.png`;
 
     return {
       countryCode: normalizedCountryCode,
@@ -55,7 +55,7 @@ class FlagService {
     const countryData = flags.find(
       (flag) => flag.countryCode === normalizedCountryCode
     );
-    const flagUrl = `https://flagcdn.com/w2560/${normalizedCountryCode.toLowerCase()}.png`;
+    const flagUrl = `https://flagsapi.com/${normalizedCountryCode}/shiny/64.png`;
 
     return {
       countryCode: normalizedCountryCode,
@@ -76,7 +76,7 @@ class FlagService {
     return Object.values(uniqueFlags).map((flag) => ({
       countryCode: flag.countryCode,
       countryName: flag.countryName,
-      flagUrl: `https://flagcdn.com/${flag.countryCode.toLowerCase()}.svg`,
+      flagUrl: `https://flagsapi.com/${flag.countryCode}/flat/64.png`,
       style: "flat",
     }));
   };
@@ -92,7 +92,7 @@ class FlagService {
     return Object.values(uniqueFlags).map((flag) => ({
       countryCode: flag.countryCode,
       countryName: flag.countryName,
-      flagUrl: `https://flagcdn.com/w2560/${flag.countryCode.toLowerCase()}.png`,
+      flagUrl: `https://flagsapi.com/${flag.countryCode}/shiny/64.png`,
       style: "shiny",
     }));
   };
