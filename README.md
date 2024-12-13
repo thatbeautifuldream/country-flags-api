@@ -33,7 +33,7 @@ A robust RESTful API service that provides information about country flags with 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/country-flags-api.git
+   git clone https://github.com/thatbeautifuldream/country-flags-api.git
    cd country-flags-api
    ```
 
