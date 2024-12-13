@@ -30,6 +30,44 @@ class FlagController {
       next(error);
     }
   }
+
+  getFlatFlag = async (req, res, next) => {
+    try {
+      const { countryCode } = req.params;
+      const flag = await flagService.getFlatFlag(countryCode);
+      res.json(flag);
+    } catch (error) {
+      next(error);
+    }
+  };
+
+  getShinyFlag = async (req, res, next) => {
+    try {
+      const { countryCode } = req.params;
+      const flag = await flagService.getShinyFlag(countryCode);
+      res.json(flag);
+    } catch (error) {
+      next(error);
+    }
+  };
+
+  getAllFlatFlags = async (req, res, next) => {
+    try {
+      const flags = await flagService.getAllFlatFlags();
+      res.json(flags);
+    } catch (error) {
+      next(error);
+    }
+  };
+
+  getAllShinyFlags = async (req, res, next) => {
+    try {
+      const flags = await flagService.getAllShinyFlags();
+      res.json(flags);
+    } catch (error) {
+      next(error);
+    }
+  };
 }
 
 module.exports = new FlagController();
