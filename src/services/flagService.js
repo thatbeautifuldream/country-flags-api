@@ -37,10 +37,14 @@ class FlagService {
 
   getFlatFlag = async (countryCode) => {
     const normalizedCountryCode = countryCode.toUpperCase();
+    const countryData = flags.find(
+      (flag) => flag.countryCode === normalizedCountryCode
+    );
     const flagUrl = `https://flagcdn.com/${normalizedCountryCode.toLowerCase()}.svg`;
 
     return {
       countryCode: normalizedCountryCode,
+      countryName: countryData ? countryData.countryName : "Unknown",
       flagUrl,
       style: "flat",
     };
@@ -48,33 +52,47 @@ class FlagService {
 
   getShinyFlag = async (countryCode) => {
     const normalizedCountryCode = countryCode.toUpperCase();
+    const countryData = flags.find(
+      (flag) => flag.countryCode === normalizedCountryCode
+    );
     const flagUrl = `https://flagcdn.com/w2560/${normalizedCountryCode.toLowerCase()}.png`;
 
     return {
       countryCode: normalizedCountryCode,
+      countryName: countryData ? countryData.countryName : "Unknown",
       flagUrl,
       style: "shiny",
     };
   };
 
   getAllFlatFlags = async () => {
-    const countryCodes = flags.map((flag) => flag.countryCode);
-    const uniqueCodes = [...new Set(countryCodes)];
+    const uniqueFlags = flags.reduce((acc, flag) => {
+      if (!acc[flag.countryCode]) {
+        acc[flag.countryCode] = flag;
+      }
+      return acc;
+    }, {});
 
-    return uniqueCodes.map((countryCode) => ({
-      countryCode,
-      flagUrl: `https://flagcdn.com/${countryCode.toLowerCase()}.svg`,
+    return Object.values(uniqueFlags).map((flag) => ({
+      countryCode: flag.countryCode,
+      countryName: flag.countryName,
+      flagUrl: `https://flagcdn.com/${flag.countryCode.toLowerCase()}.svg`,
       style: "flat",
     }));
   };
 
   getAllShinyFlags = async () => {
-    const countryCodes = flags.map((flag) => flag.countryCode);
-    const uniqueCodes = [...new Set(countryCodes)];
+    const uniqueFlags = flags.reduce((acc, flag) => {
+      if (!acc[flag.countryCode]) {
+        acc[flag.countryCode] = flag;
+      }
+      return acc;
+    }, {});
 
-    return uniqueCodes.map((countryCode) => ({
-      countryCode,
-      flagUrl: `https://flagcdn.com/w2560/${countryCode.toLowerCase()}.png`,
+    return Object.values(uniqueFlags).map((flag) => ({
+      countryCode: flag.countryCode,
+      countryName: flag.countryName,
+      flagUrl: `https://flagcdn.com/w2560/${flag.countryCode.toLowerCase()}.png`,
       style: "shiny",
     }));
   };
